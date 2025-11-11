@@ -1,5 +1,0 @@
-{
-  "max_execution_attempts": 3,
-  "sota_llm_name": "gemini-2.5-flash",
-  "llm_name": "gemini-2.5-flash-lite"
-}
